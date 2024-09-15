@@ -1,5 +1,6 @@
-# I am Omar Galal 
 ## Hi there 👋
+
+# I am Omar Galal 
 
 ## Education
  Faculty : computers and artificial intelligence 
