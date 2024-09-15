@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-omar galal
+## Contact 
+Email : omargalal180@gmail.com
+Phone num : 01111782550
+Address : sheikh zayed , Giza 
+## Skills
+Programming language : Python , c++ , java , verilog, JavaScript 
+Database : Mysql,oracle
+Soft skills : Communication Skills ,Time Management, Critical Thinking , Adaptability and Flexibility , Inquisitiveness , Creativity and Presentation Skills , work under pressure , team work
+Os : Windows,Linux
+Network : Ccna , Network security
 
 <!--
 **omargalal255/omargalal255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
