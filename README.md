@@ -2,12 +2,12 @@
 ## I am Omar Galal 
 
 
-## Contact 
+## My_Contacts 
 Email : omargalal180@gmail.com 
 
-Phone num : 01111782550
+Phone num : +20 01111782550
 
-Address : sheikh zayed , Giza 
+LinkedIn_profile : https://www.linkedin.com/in/omar-galal-27b848247/
 ## Skills
 Programming language : Python , c++ , java , verilog, JavaScript 
 
@@ -15,7 +15,7 @@ Database : Mysql,oracle
 
 Soft skills : Communication Skills ,Time Management, Critical Thinking , Adaptability and Flexibility , Inquisitiveness , Creativity and Presentation Skills , work under pressure , team work
 
-Os : Windows,Linux
+Operating system : Windows,Linux
 
 Network : Ccna , Network security
 
