@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Contact 
-Email : omargalal180@gmail.com
+Email : omargalal180@gmail.com /n
 Phone num : 01111782550
 Address : sheikh zayed , Giza 
 ## Skills
