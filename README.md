@@ -1,5 +1,18 @@
+# I am Omar Galal 
 ## Hi there 👋
-## I am Omar Galal 
+
+## Education
+ Faculty : computers and artificial intelligence 
+ 
+ University : Benha university
+ 
+ Department : information security and digital forensics
+ 
+ Level 4
+ 
+ Grade : Excellent
+ 
+ Gpa: 3.9
 
 
 ## My_Contacts 
