@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I am Omar Galal 
+
 
 ## Contact 
 Email : omargalal180@gmail.com ;
